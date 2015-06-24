@@ -7,8 +7,8 @@
 // @namespace       https://github.com/henrylawson/gmail-hide-right-panel
 // @downloadURL     https://github.com/henrylawson/gmail-hide-right-panel/raw/master/gmail-hide-right-panel.js
 //
-// @match           https://feedly.com/*
-// @match           http://feedly.com/*
+// @match           https://mail.google.com/*
+// @match           http://mail.google.com/*
 //
 // @version         1.0
 // @updateURL       https://github.com/henrylawson/gmail-hide-right-panel/raw/master/gmail-hide-right-panel.js
