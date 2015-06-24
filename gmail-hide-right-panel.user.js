@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Gmail hide right panel
+// @name            Gmail Hide Right Panel
 // @description     Hides the right panel where the senders name appears.
 // @icon            https://raw.githubusercontent.com/henrylawson/gmail-hide-right-panel/master/gmail-hide-right-panel.user.jpg
 //
