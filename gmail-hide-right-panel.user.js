@@ -1,17 +1,17 @@
 // ==UserScript==
 // @name            Gmail hide right panel
 // @description     Hides the right panel where the senders name appears.
-// @icon            https://raw.githubusercontent.com/henrylawson/gmail-hide-right-panel/master/gmail-hide-right-panel.jpg
+// @icon            https://raw.githubusercontent.com/henrylawson/gmail-hide-right-panel/master/gmail-hide-right-panel.user.jpg
 //
 // @author          Henry Lawson
 // @namespace       https://github.com/henrylawson/gmail-hide-right-panel
-// @downloadURL     https://github.com/henrylawson/gmail-hide-right-panel/raw/master/gmail-hide-right-panel.js
+// @downloadURL     https://github.com/henrylawson/gmail-hide-right-panel/raw/master/gmail-hide-right-panel.user.js
 //
 // @match           https://mail.google.com/*
 // @match           http://mail.google.com/*
 //
 // @version         1.0
-// @updateURL       https://github.com/henrylawson/gmail-hide-right-panel/raw/master/gmail-hide-right-panel.js
+// @updateURL       https://github.com/henrylawson/gmail-hide-right-panel/raw/master/gmail-hide-right-panel.user.js
 // ==/UserScript==
 
 /**
